@@ -3,7 +3,7 @@ int dup(long *ar,long);
 int check(long *ar,int,int,long);
 int main()
 {
-int t=0;
+int t;
 long n;
 scanf("%d",&t);
 while(t--)
